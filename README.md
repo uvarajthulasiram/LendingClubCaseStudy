@@ -28,17 +28,19 @@ This project involves analyzing the dataset of a leading lending company to iden
 
 ## Doing further segmented univariate analysis reveal the following,
 
-2. The borrowers with lower grades borrowed more than the one with higher grades
-3. The interest rate for those borrowers with lower sub grades are much higher which proves again that the grades are inversely proportional to risk.
-4. The customers with lower grades show more disrespectful attitude. This insight is derived from the number of public derogatory records.
+1. The borrowers with lower grades borrowed more than the one with higher grades
+2. The interest rate for those borrowers with lower sub grades are much higher which proves again that the grades are inversely proportional to risk.
+3. The customers with lower grades show more disrespectful attitude. This insight is derived from the number of public derogatory records.
 
 ### Bivariate Analysis
 
 ## Bivariate analysis helps validate assumptions and clarify insights derived from univariate analysis.
 
-1. The first chart on the right shows that borrowers with lower subgrades tend to take larger loans at higher
-2. interest rates and default more frequently, leading to a higher number of charged-off loans.
-3. The second chart reinforces this observation by illustrating the distribution of loan amounts across different grades.
+1. The borrowers with lower subgrades tend to take larger loans at higher interest rates and default more frequently, leading to a higher number of charged-off loans.
+2. The distribution of loan amounts across different grades reinforces the above point.
+
+## Multivariate analysis
+1. Customers with low income tend to have more open credit lines, which directly translates to high risk.
 
 ## Tools and Libraries
 
